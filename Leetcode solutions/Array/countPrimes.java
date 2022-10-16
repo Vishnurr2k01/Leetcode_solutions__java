@@ -3,6 +3,7 @@
 // https://leetcode.com/problems/count-primes/
 // Count Primes
 // solved using seieve eritosthenos principle
+//question1
 
 
 class countPrimes {
